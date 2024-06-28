@@ -1,0 +1,476 @@
+06:14:56 : win10-charlie|192.168.55.133|RShare|pwrite|ok|picture-Charlie-5.bmp
+06:14:56 : message repeated 4 times: [ win10-charlie|192.168.55.133|RShare|pwrite|ok|picture-Charlie-5.bmp]
+06:14:56 : win10-charlie|192.168.55.133|RShare|pwrite|ok|document-Charlie-1.txt
+06:14:56 : win10-charlie|192.168.55.133|RShare|pwrite|ok|document-Charlie-2.txt
+06:14:56 : win10-charlie|192.168.55.133|RShare|pwrite|ok|document-Charlie-3.txt
+06:14:56 : win10-charlie|192.168.55.133|RShare|pwrite|ok|document-Charlie-4.txt
+06:14:56 : win10-charlie|192.168.55.133|RShare|pwrite|ok|document-Charlie-5.txt
+06:14:56 : win10-charlie|192.168.55.133|RShare|pwrite|ok|picture-Charlie-1.bmp
+06:14:56 : message repeated 4 times: [ win10-charlie|192.168.55.133|RShare|pwrite|ok|picture-Charlie-1.bmp]
+06:14:56 : win10-charlie|192.168.55.133|RShare|pwrite|ok|picture-Charlie-2.bmp
+06:14:56 : message repeated 4 times: [ win10-charlie|192.168.55.133|RShare|pwrite|ok|picture-Charlie-2.bmp]
+06:14:56 : win10-charlie|192.168.55.133|RShare|pwrite|ok|picture-Charlie-3.bmp
+06:14:56 : message repeated 4 times: [ win10-charlie|192.168.55.133|RShare|pwrite|ok|picture-Charlie-3.bmp]
+06:14:56 : win10-charlie|192.168.55.133|RShare|pwrite|ok|picture-Charlie-4.bmp
+06:14:56 : message repeated 4 times: [ win10-charlie|192.168.55.133|RShare|pwrite|ok|picture-Charlie-4.bmp]
+06:14:59 : win10-charlie|192.168.55.133|RShare|mkdir|ok|New folder
+06:15:07 : win10-charlie|192.168.55.133|RShare|rename|ok|New folder|CharlieShare
+06:15:12 : win10-charlie|192.168.55.133|RShare|rename|ok|picture-Charlie-1.bmp|CharlieShare/picture-Charlie-1.bmp
+06:15:12 : win10-charlie|192.168.55.133|RShare|rename|ok|picture-Charlie-2.bmp|CharlieShare/picture-Charlie-2.bmp
+06:15:12 : win10-charlie|192.168.55.133|RShare|rename|ok|picture-Charlie-3.bmp|CharlieShare/picture-Charlie-3.bmp
+06:15:12 : win10-charlie|192.168.55.133|RShare|rename|ok|picture-Charlie-4.bmp|CharlieShare/picture-Charlie-4.bmp
+06:15:12 : win10-charlie|192.168.55.133|RShare|rename|ok|picture-Charlie-5.bmp|CharlieShare/picture-Charlie-5.bmp
+06:15:27 : win10-charlie|192.168.55.133|RShare|rename|ok|document-Charlie-3.txt|CharlieShare/document-Charlie-3.txt
+06:15:27 : win10-charlie|192.168.55.133|RShare|rename|ok|document-Charlie-4.txt|CharlieShare/document-Charlie-4.txt
+06:15:27 : win10-charlie|192.168.55.133|RShare|rename|ok|document-Charlie-5.txt|CharlieShare/document-Charlie-5.txt
+06:15:27 : win10-charlie|192.168.55.133|RShare|rename|ok|document-Charlie-1.txt|CharlieShare/document-Charlie-1.txt
+06:15:27 : win10-charlie|192.168.55.133|RShare|rename|ok|document-Charlie-2.txt|CharlieShare/document-Charlie-2.txt
+06:17:01 : win7-bob|192.168.55.132|RShare|pwrite|ok|document-Charlie-3.txt
+06:17:01 : win7-bob|192.168.55.132|RShare|pwrite|ok|document-Charlie-4.txt
+06:17:01 : win7-bob|192.168.55.132|RShare|pwrite|ok|document-Charlie-5.txt
+06:17:01 : win7-bob|192.168.55.132|RShare|pwrite|ok|picture-Charlie-3.bmp
+06:17:01 : message repeated 34 times: [ win7-bob|192.168.55.132|RShare|pwrite|ok|picture-Charlie-3.bmp]
+06:17:01 : win7-bob|192.168.55.132|RShare|pwrite|ok|picture-Charlie-4.bmp
+06:17:01 : message repeated 14 times: [ win7-bob|192.168.55.132|RShare|pwrite|ok|picture-Charlie-4.bmp]
+06:17:01 : win7-bob|192.168.55.132|RShare|pwrite|ok|picture-Charlie-4.bmp
+06:17:01 : win7-bob|192.168.55.132|RShare|pwrite|ok|picture-Charlie-4.bmp
+06:17:01 : win7-bob|192.168.55.132|RShare|pwrite|ok|picture-Charlie-4.bmp
+06:17:01 : message repeated 17 times: [ win7-bob|192.168.55.132|RShare|pwrite|ok|picture-Charlie-4.bmp]
+06:17:01 : win7-bob|192.168.55.132|RShare|pwrite|ok|picture-Charlie-5.bmp
+06:17:01 : message repeated 34 times: [ win7-bob|192.168.55.132|RShare|pwrite|ok|picture-Charlie-5.bmp]
+06:17:04 : win7-bob|192.168.55.132|RShare|mkdir|ok|New folder
+06:17:08 : win7-bob|192.168.55.132|RShare|rename|ok|New folder|ShareBob
+06:17:13 : win7-bob|192.168.55.132|RShare|rename|ok|document-Charlie-3.txt|ShareBob/document-Charlie-3.txt
+06:17:13 : win7-bob|192.168.55.132|RShare|rename|ok|document-Charlie-4.txt|ShareBob/document-Charlie-4.txt
+06:17:13 : win7-bob|192.168.55.132|RShare|rename|ok|document-Charlie-5.txt|ShareBob/document-Charlie-5.txt
+06:17:13 : win7-bob|192.168.55.132|RShare|rename|ok|picture-Charlie-3.bmp|ShareBob/picture-Charlie-3.bmp
+06:17:13 : win7-bob|192.168.55.132|RShare|rename|ok|picture-Charlie-4.bmp|ShareBob/picture-Charlie-4.bmp
+06:17:13 : win7-bob|192.168.55.132|RShare|rename|ok|picture-Charlie-5.bmp|ShareBob/picture-Charlie-5.bmp
+06:17:20 : win7-bob|192.168.55.132|RShare|rename|ok|ShareBob/document-Charlie-3.txt|ShareBob/document-Bob-3.txt
+06:17:26 : win7-bob|192.168.55.132|RShare|rename|ok|ShareBob/document-Charlie-4.txt|ShareBob/document-Bob.txt
+06:17:39 : win7-bob|192.168.55.132|RShare|rename|ok|ShareBob/document-Charlie-5.txt|ShareBob/document-Bob-5.txt
+06:17:44 : win7-bob|192.168.55.132|RShare|rename|ok|ShareBob/picture-Charlie-3.bmp|ShareBob/picture-Bob-3.bmp
+06:17:52 : win7-bob|192.168.55.132|RShare|rename|ok|ShareBob/picture-Charlie-4.bmp|ShareBob/picture-Malory-4.bmp
+06:17:57 : win7-bob|192.168.55.132|RShare|rename|ok|ShareBob/picture-Charlie-5.bmp|ShareBob/picture-Bob-5.bmp
+06:18:11 : win7-bob|192.168.55.132|RShare|mkdir|ok|New folder
+06:18:14 : win7-bob|192.168.55.132|RShare|rename|ok|New folder|TempFiles
+06:18:20 : win7-bob|192.168.55.132|RShare|pwrite|ok|TempFiles/document-Bob-3.txt
+06:18:20 : win7-bob|192.168.55.132|RShare|pwrite|ok|TempFiles/document-Bob-5.txt
+06:18:20 : win7-bob|192.168.55.132|RShare|pwrite|ok|TempFiles/picture-Bob-3.bmp
+06:18:20 : message repeated 34 times: [ win7-bob|192.168.55.132|RShare|pwrite|ok|TempFiles/picture-Bob-3.bmp]
+06:18:20 : win7-bob|192.168.55.132|RShare|pwrite|ok|TempFiles/picture-Bob-5.bmp
+06:18:20 : message repeated 34 times: [ win7-bob|192.168.55.132|RShare|pwrite|ok|TempFiles/picture-Bob-5.bmp]
+06:18:20 : win7-bob|192.168.55.132|RShare|pwrite|ok|TempFiles/picture-Malory-4.bmp
+06:18:20 : message repeated 34 times: [ win7-bob|192.168.55.132|RShare|pwrite|ok|TempFiles/picture-Malory-4.bmp]
+06:18:24 : win7-bob|192.168.55.132|RShare|unlink|ok|TempFiles/document-Bob-3.txt
+06:18:24 : win7-bob|192.168.55.132|RShare|unlink|ok|TempFiles/picture-Malory-4.bmp
+06:18:24 : win7-bob|192.168.55.132|RShare|unlink|ok|TempFiles/document-Bob-5.txt
+06:18:24 : win7-bob|192.168.55.132|RShare|unlink|ok|TempFiles/picture-Bob-5.bmp
+06:18:24 : win7-bob|192.168.55.132|RShare|unlink|ok|TempFiles/picture-Bob-3.bmp
+06:18:24 : win7-bob|192.168.55.132|RShare|rmdir|ok|TempFiles
+06:20:08 : win10-charlie|192.168.55.133|RShare|mkdir|ok|CharlieShare/New folder
+06:20:14 : win10-charlie|192.168.55.133|RShare|rename|ok|CharlieShare/New folder|CharlieShare/SecretFiles
+06:20:16 : win10-charlie|192.168.55.133|RShare|rename|ok|CharlieShare/picture-Charlie-5.bmp|CharlieShare/SecretFiles/picture-Charlie-5.bmp
+06:20:16 : win10-charlie|192.168.55.133|RShare|rename|ok|CharlieShare/document-Charlie-4.txt|CharlieShare/SecretFiles/document-Charlie-4.txt
+06:20:16 : win10-charlie|192.168.55.133|RShare|rename|ok|CharlieShare/document-Charlie-5.txt|CharlieShare/SecretFiles/document-Charlie-5.txt
+06:20:16 : win10-charlie|192.168.55.133|RShare|rename|ok|CharlieShare/picture-Charlie-4.bmp|CharlieShare/SecretFiles/picture-Charlie-4.bmp
+06:20:25 : win10-charlie|192.168.55.133|RShare|rename|ok|CharlieShare/SecretFiles/picture-Charlie-5.bmp|CharlieShare/SecretFiles/secret-Charlie-5.bmp
+06:20:31 : win10-charlie|192.168.55.133|RShare|rename|ok|CharlieShare/SecretFiles/picture-Charlie-4.bmp|CharlieShare/SecretFiles/secret-Charlie-4.bmp
+08:12:06 : win7-alice|192.168.55.131|RShare|mkdir|ok|CharlieShare - Copy
+08:12:06 : win7-alice|192.168.55.131|RShare|pwrite|ok|CharlieShare - Copy/document-Charlie-3.txt
+08:12:06 : win7-alice|192.168.55.131|RShare|pwrite|ok|CharlieShare - Copy/picture-Charlie-1.bmp
+08:12:06 : message repeated 34 times: [ win7-alice|192.168.55.131|RShare|pwrite|ok|CharlieShare - Copy/picture-Charlie-1.bmp]
+08:12:06 : win7-alice|192.168.55.131|RShare|pwrite|ok|CharlieShare - Copy/picture-Charlie-2.bmp
+08:12:06 : message repeated 34 times: [ win7-alice|192.168.55.131|RShare|pwrite|ok|CharlieShare - Copy/picture-Charlie-2.bmp]
+08:12:07 : win7-alice|192.168.55.131|RShare|pwrite|ok|CharlieShare - Copy/document-Charlie-1.txt
+08:12:07 : win7-alice|192.168.55.131|RShare|pwrite|ok|CharlieShare - Copy/picture-Charlie-3.bmp
+08:12:07 : message repeated 34 times: [ win7-alice|192.168.55.131|RShare|pwrite|ok|CharlieShare - Copy/picture-Charlie-3.bmp]
+08:12:07 : win7-alice|192.168.55.131|RShare|pwrite|ok|CharlieShare - Copy/document-Charlie-2.txt
+08:12:07 : win7-alice|192.168.55.131|RShare|mkdir|ok|CharlieShare - Copy/SecretFiles
+08:12:07 : win7-alice|192.168.55.131|RShare|pwrite|ok|CharlieShare - Copy/SecretFiles/secret-Charlie-4.bmp
+08:12:07 : message repeated 34 times: [ win7-alice|192.168.55.131|RShare|pwrite|ok|CharlieShare - Copy/SecretFiles/secret-Charlie-4.bmp]
+08:12:07 : win7-alice|192.168.55.131|RShare|pwrite|ok|CharlieShare - Copy/SecretFiles/document-Charlie-5.txt
+08:12:07 : win7-alice|192.168.55.131|RShare|pwrite|ok|CharlieShare - Copy/SecretFiles/document-Charlie-4.txt
+08:12:07 : win7-alice|192.168.55.131|RShare|pwrite|ok|CharlieShare - Copy/SecretFiles/secret-Charlie-5.bmp
+08:12:07 : message repeated 34 times: [ win7-alice|192.168.55.131|RShare|pwrite|ok|CharlieShare - Copy/SecretFiles/secret-Charlie-5.bmp]
+08:12:15 : win7-alice|192.168.55.131|RShare|rename|ok|CharlieShare - Copy|AliceShare
+08:12:28 : win7-alice|192.168.55.131|RShare|rename|ok|AliceShare/picture-Charlie-3.bmp|AliceShare/picture-Alice1.bmp
+08:12:32 : win7-alice|192.168.55.131|RShare|rename|ok|AliceShare/picture-Charlie-2.bmp|AliceShare/picture-Alice2.bmp
+08:12:34 : win7-alice|192.168.55.131|RShare|unlink|ok|AliceShare/picture-Charlie-1.bmp
+08:12:41 : win7-alice|192.168.55.131|RShare|rename|ok|AliceShare/document-Charlie-3.txt|AliceShare/document-Alice.txt
+08:12:44 : win7-alice|192.168.55.131|RShare|unlink|ok|AliceShare/SecretFiles/secret-Charlie-4.bmp
+08:12:44 : win7-alice|192.168.55.131|RShare|unlink|ok|AliceShare/SecretFiles/document-Charlie-5.txt
+08:12:44 : win7-alice|192.168.55.131|RShare|unlink|ok|AliceShare/SecretFiles/document-Charlie-4.txt
+08:12:44 : win7-alice|192.168.55.131|RShare|unlink|ok|AliceShare/SecretFiles/secret-Charlie-5.bmp
+08:12:44 : win7-alice|192.168.55.131|RShare|rmdir|ok|AliceShare/SecretFiles
+08:13:07 : win7-bob|192.168.55.132|RShare|pwrite|ok|ShareBob/document-Bob-3.txt
+08:15:15 : win7-victim|192.168.55.128|RShare|mkdir|ok|CharlieShare - Copy
+08:15:15 : win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare - Copy/document-Charlie-3.txt
+08:15:15 : win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare - Copy/picture-Charlie-1.bmp
+08:15:15 : message repeated 34 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare - Copy/picture-Charlie-1.bmp]
+08:15:15 : win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare - Copy/picture-Charlie-2.bmp
+08:15:15 : message repeated 34 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare - Copy/picture-Charlie-2.bmp]
+08:15:15 : win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare - Copy/document-Charlie-1.txt
+08:15:15 : win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare - Copy/picture-Charlie-3.bmp
+08:15:15 : message repeated 34 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare - Copy/picture-Charlie-3.bmp]
+08:15:15 : win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare - Copy/document-Charlie-2.txt
+08:15:15 : win7-victim|192.168.55.128|RShare|mkdir|ok|CharlieShare - Copy/SecretFiles
+08:15:15 : win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare - Copy/SecretFiles/secret-Charlie-4.bmp
+08:15:15 : message repeated 34 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare - Copy/SecretFiles/secret-Charlie-4.bmp]
+08:15:15 : win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare - Copy/SecretFiles/document-Charlie-5.txt
+08:15:15 : win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare - Copy/SecretFiles/document-Charlie-4.txt
+08:15:15 : win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare - Copy/SecretFiles/secret-Charlie-5.bmp
+08:15:15 : message repeated 34 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare - Copy/SecretFiles/secret-Charlie-5.bmp]
+08:15:27 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare - Copy|Mallory
+08:15:36 : win7-victim|192.168.55.128|RShare|pwrite|ok|Mallory/file1.txt
+08:15:36 : win7-victim|192.168.55.128|RShare|pwrite|ok|Mallory/file3.txt
+08:15:36 : win7-victim|192.168.55.128|RShare|pwrite|ok|Mallory/file5.txt
+08:15:36 : win7-victim|192.168.55.128|RShare|pwrite|ok|Mallory/file7.txt
+08:15:36 : win7-victim|192.168.55.128|RShare|pwrite|ok|Mallory/file9.txt
+08:15:40 : win7-victim|192.168.55.128|RShare|unlink|ok|Mallory/document-Charlie-1.txt
+08:15:40 : win7-victim|192.168.55.128|RShare|unlink|ok|Mallory/document-Charlie-2.txt
+08:15:40 : win7-victim|192.168.55.128|RShare|unlink|ok|Mallory/document-Charlie-3.txt
+08:15:40 : win7-victim|192.168.55.128|RShare|unlink|ok|Mallory/picture-Charlie-1.bmp
+08:15:40 : win7-victim|192.168.55.128|RShare|unlink|ok|Mallory/picture-Charlie-2.bmp
+08:15:40 : win7-victim|192.168.55.128|RShare|unlink|ok|Mallory/picture-Charlie-3.bmp
+08:15:42 : win7-victim|192.168.55.128|RShare|unlink|ok|Mallory/SecretFiles/secret-Charlie-4.bmp
+08:15:42 : win7-victim|192.168.55.128|RShare|unlink|ok|Mallory/SecretFiles/document-Charlie-5.txt
+08:15:42 : win7-victim|192.168.55.128|RShare|unlink|ok|Mallory/SecretFiles/document-Charlie-4.txt
+08:15:42 : win7-victim|192.168.55.128|RShare|unlink|ok|Mallory/SecretFiles/secret-Charlie-5.bmp
+08:15:42 : win7-victim|192.168.55.128|RShare|rmdir|ok|Mallory/SecretFiles
+08:15:44 : win7-victim|192.168.55.128|RShare|mkdir|ok|Mallory/New folder
+08:15:49 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/New folder|Mallory/Pictures
+08:16:02 : win7-victim|192.168.55.128|RShare|pwrite|ok|Mallory/Pictures/picture1.bmp
+08:16:02 : message repeated 34 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|Mallory/Pictures/picture1.bmp]
+08:16:02 : win7-victim|192.168.55.128|RShare|pwrite|ok|Mallory/Pictures/picture3.bmp
+08:16:02 : message repeated 34 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|Mallory/Pictures/picture3.bmp]
+08:16:02 : win7-victim|192.168.55.128|RShare|pwrite|ok|Mallory/Pictures/picture5.png
+08:16:02 : win7-victim|192.168.55.128|RShare|pwrite|ok|Mallory/Pictures/picture7.png
+08:16:02 : win7-victim|192.168.55.128|RShare|pwrite|ok|Mallory/Pictures/picture9.bmp
+08:16:02 : message repeated 34 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|Mallory/Pictures/picture9.bmp]
+08:19:24 : win7-victim|192.168.55.128|RShare|mkdir|ok|myDisk
+08:19:24 : win7-victim|192.168.55.128|RShare|pwrite|ok|myDisk/drivers.exe
+08:19:24 : message repeated 6 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|myDisk/drivers.exe]
+08:19:24 : win7-victim|192.168.55.128|RShare|pwrite|ok|autorun.inf
+08:19:24 : win7-victim|192.168.55.128|RShare|pwrite|ok|documnet.txt.lnk
+08:19:24 : win7-victim|192.168.55.128|RShare|pwrite|ok|ShareBob.lnk
+08:19:24 : win7-victim|192.168.55.128|RShare|pwrite|ok|AliceShare.lnk
+08:19:24 : win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare.lnk
+08:19:24 : win7-victim|192.168.55.128|RShare|pwrite|ok|Mallory.lnk
+08:19:39 : win7-victim|192.168.55.128|RShare|pwrite|ok|Mallory/5B294E575745FABD9D192F2E96BB8FF8685F.locked
+08:19:39 : win7-victim|192.168.55.128|RShare|pwrite|ok|Mallory/file7.txt
+08:19:39 : message repeated 2 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|Mallory/file7.txt]
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/file7.txt|Mallory/~hfspbvz.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~hfspbvz.tmp|Mallory/~mrzdacr.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~mrzdacr.tmp|Mallory/~nfsjixz.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~nfsjixz.tmp|Mallory/~apgkvzm.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~apgkvzm.tmp|Mallory/~jrxvjqx.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~jrxvjqx.tmp|Mallory/~ijgqnmo.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~ijgqnmo.tmp|Mallory/~kurlkkc.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~kurlkkc.tmp|Mallory/~vtzopio.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~vtzopio.tmp|Mallory/~hyldufk.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~hyldufk.tmp|Mallory/~wtlokvs.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|unlink|ok|Mallory/~wtlokvs.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|pwrite|ok|Mallory/5B294E575745FABD9D1F2F2E96BB8FF8685F.locked
+08:19:39 : win7-victim|192.168.55.128|RShare|pwrite|ok|Mallory/file1.txt
+08:19:39 : message repeated 2 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|Mallory/file1.txt]
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/file1.txt|Mallory/~mcwcsvd.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~mcwcsvd.tmp|Mallory/~gbpnafx.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~gbpnafx.tmp|Mallory/~tfmjica.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~tfmjica.tmp|Mallory/~crlrpun.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~crlrpun.tmp|Mallory/~efemnmi.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~efemnmi.tmp|Mallory/~sbtvioa.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~sbtvioa.tmp|Mallory/~gyokgjh.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~gyokgjh.tmp|Mallory/~svgsopg.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~svgsopg.tmp|Mallory/~whtcsty.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~whtcsty.tmp|Mallory/~ihxpmes.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|unlink|ok|Mallory/~ihxpmes.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|pwrite|ok|Mallory/5B294E575745FABD9D6E2F2E96BB8FF8685F.locked
+08:19:39 : win7-victim|192.168.55.128|RShare|pwrite|ok|Mallory/file9.txt
+08:19:39 : message repeated 2 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|Mallory/file9.txt]
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/file9.txt|Mallory/~shifgea.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~shifgea.tmp|Mallory/~kdcopuf.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~kdcopuf.tmp|Mallory/~hwugoee.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~hwugoee.tmp|Mallory/~zxyfqkd.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~zxyfqkd.tmp|Mallory/~uwdwvvg.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~uwdwvvg.tmp|Mallory/~zgzvwgo.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~zgzvwgo.tmp|Mallory/~yjuhdlc.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~yjuhdlc.tmp|Mallory/~tvcioqi.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~tvcioqi.tmp|Mallory/~djjeezd.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~djjeezd.tmp|Mallory/~gobqqjh.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|unlink|ok|Mallory/~gobqqjh.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|pwrite|ok|Mallory/5B294E575745FABD9D1D2F2E96BB8FF8685F.locked
+08:19:39 : win7-victim|192.168.55.128|RShare|pwrite|ok|Mallory/file3.txt
+08:19:39 : message repeated 2 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|Mallory/file3.txt]
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/file3.txt|Mallory/~edxmqli.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~edxmqli.tmp|Mallory/~pdefybo.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~pdefybo.tmp|Mallory/~wdayvnn.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~wdayvnn.tmp|Mallory/~yejkamf.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~yejkamf.tmp|Mallory/~uqbcjiq.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~uqbcjiq.tmp|Mallory/~jqraxkc.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~jqraxkc.tmp|Mallory/~vokxqqf.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~vokxqqf.tmp|Mallory/~txwelie.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~txwelie.tmp|Mallory/~xyounug.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~xyounug.tmp|Mallory/~rovdefe.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|unlink|ok|Mallory/~rovdefe.tmp
+08:19:39 : win7-victim|192.168.55.128|RShare|pwrite|ok|Mallory/5B294E575745FABD9D1B2F2E96BB8FF8685F.locked
+08:19:40 : win7-victim|192.168.55.128|RShare|pwrite|ok|Mallory/file5.txt
+08:19:40 : message repeated 2 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|Mallory/file5.txt]
+08:19:40 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/file5.txt|Mallory/~hbbmyvk.tmp
+08:19:40 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~hbbmyvk.tmp|Mallory/~fvgpcsn.tmp
+08:19:40 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~fvgpcsn.tmp|Mallory/~bynpoiv.tmp
+08:19:40 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~bynpoiv.tmp|Mallory/~dmusdjn.tmp
+08:19:40 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~dmusdjn.tmp|Mallory/~mvnuctv.tmp
+08:19:40 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~mvnuctv.tmp|Mallory/~hrnlqrr.tmp
+08:19:40 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~hrnlqrr.tmp|Mallory/~mjkbphn.tmp
+08:19:40 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~mjkbphn.tmp|Mallory/~lgkodvv.tmp
+08:19:40 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~lgkodvv.tmp|Mallory/~visgfsz.tmp
+08:19:40 : win7-victim|192.168.55.128|RShare|rename|ok|Mallory/~visgfsz.tmp|Mallory/~xgpgfpg.tmp
+08:19:40 : win7-victim|192.168.55.128|RShare|unlink|ok|Mallory/~xgpgfpg.tmp
+08:19:40 : win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare/5B2B4E515733FBBD986A2B2595CA8F8D1429F331774E98F1160E6A2B32F86510C758E9F24D2BB7EFA3A1B83F.locked
+08:19:40 : win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare/document-Charlie-3.txt
+08:19:40 : message repeated 2 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare/document-Charlie-3.txt]
+08:19:40 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/document-Charlie-3.txt|CharlieShare/~ncbsdhl.tmp
+08:19:40 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~ncbsdhl.tmp|CharlieShare/~vczcwvi.tmp
+08:19:40 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~vczcwvi.tmp|CharlieShare/~aojbici.tmp
+08:19:40 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~aojbici.tmp|CharlieShare/~arjxcnw.tmp
+08:19:40 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~arjxcnw.tmp|CharlieShare/~nmkqvdp.tmp
+08:19:40 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~nmkqvdp.tmp|CharlieShare/~lyqifbv.tmp
+08:19:40 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~lyqifbv.tmp|CharlieShare/~gqxaopb.tmp
+08:19:40 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~gqxaopb.tmp|CharlieShare/~pncbnmj.tmp
+08:19:40 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~pncbnmj.tmp|CharlieShare/~zmhsccd.tmp
+08:19:40 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~zmhsccd.tmp|CharlieShare/~uxblybe.tmp
+08:19:40 : win7-victim|192.168.55.128|RShare|unlink|ok|CharlieShare/~uxblybe.tmp
+08:19:40 : win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare/5A2F4E575733FBBC991B2A2295B888FD695EF143773E99F215006A2E328B6163C62DE886495EB69DA3A9.locked
+08:19:40 : message repeated 34 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare/5A2F4E575733FBBC991B2A2295B888FD695EF143773E99F215006A2E328B6163C62DE886495EB69DA3A9.locked]
+08:19:40 : win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare/picture-Charlie-1.bmp
+08:19:40 : message repeated 104 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare/picture-Charlie-1.bmp]
+08:19:40 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/picture-Charlie-1.bmp|CharlieShare/~aedsezf.tmp
+08:19:40 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~aedsezf.tmp|CharlieShare/~bkkxwxj.tmp
+08:19:40 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~bkkxwxj.tmp|CharlieShare/~jguemop.tmp
+08:19:40 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~jguemop.tmp|CharlieShare/~zqykabk.tmp
+08:19:40 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~zqykabk.tmp|CharlieShare/~bbgwfei.tmp
+08:19:40 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~bbgwfei.tmp|CharlieShare/~xjmgcsy.tmp
+08:19:40 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~xjmgcsy.tmp|CharlieShare/~jvxxgyw.tmp
+08:19:40 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~jvxxgyw.tmp|CharlieShare/~zqzlzsa.tmp
+08:19:40 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~zqzlzsa.tmp|CharlieShare/~wqrmauo.tmp
+08:19:40 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~wqrmauo.tmp|CharlieShare/~jvnfvbx.tmp
+08:19:40 : win7-victim|192.168.55.128|RShare|unlink|ok|CharlieShare/~jvnfvbx.tmp
+08:19:41 : win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare/5A2F4E575733FBBC991B2A2295B888FD695EF143773E99F215006A2E328B6163C62CE886495EB69DA3A9.locked
+08:19:41 : message repeated 34 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare/5A2F4E575733FBBC991B2A2295B888FD695EF143773E99F215006A2E328B6163C62CE886495EB69DA3A9.locked]
+08:19:41 : win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare/picture-Charlie-2.bmp
+08:19:41 : message repeated 104 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare/picture-Charlie-2.bmp]
+08:19:41 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/picture-Charlie-2.bmp|CharlieShare/~pxmhham.tmp
+08:19:41 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~pxmhham.tmp|CharlieShare/~karwhvc.tmp
+08:19:41 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~karwhvc.tmp|CharlieShare/~xylliyv.tmp
+08:19:41 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~xylliyv.tmp|CharlieShare/~agcrgmo.tmp
+08:19:41 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~agcrgmo.tmp|CharlieShare/~rmlnirw.tmp
+08:19:41 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~rmlnirw.tmp|CharlieShare/~ygkrfwm.tmp
+08:19:41 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~ygkrfwm.tmp|CharlieShare/~oxtdgzx.tmp
+08:19:41 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~oxtdgzx.tmp|CharlieShare/~eknvlyt.tmp
+08:19:41 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~eknvlyt.tmp|CharlieShare/~rhnpfet.tmp
+08:19:41 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~rhnpfet.tmp|CharlieShare/~iatnrod.tmp
+08:19:41 : win7-victim|192.168.55.128|RShare|unlink|ok|CharlieShare/~iatnrod.tmp
+08:19:41 : win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare/5B2B4E515733FBBD986A2B2595CA8F8D1429F331774E98F1160E6A2B32F86510C758E9F04D2BB7EFA3A1B83F.locked
+08:19:41 : win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare/document-Charlie-1.txt
+08:19:41 : message repeated 2 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare/document-Charlie-1.txt]
+08:19:41 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/document-Charlie-1.txt|CharlieShare/~mnqluqo.tmp
+08:19:41 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~mnqluqo.tmp|CharlieShare/~ilvntxj.tmp
+08:19:41 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~ilvntxj.tmp|CharlieShare/~ckzueuz.tmp
+08:19:41 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~ckzueuz.tmp|CharlieShare/~cfrixjm.tmp
+08:19:41 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~cfrixjm.tmp|CharlieShare/~vcoeavt.tmp
+08:19:41 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~vcoeavt.tmp|CharlieShare/~dbfkiph.tmp
+08:19:41 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~dbfkiph.tmp|CharlieShare/~mhomsaz.tmp
+08:19:41 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~mhomsaz.tmp|CharlieShare/~qwwsuzq.tmp
+08:19:41 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~qwwsuzq.tmp|CharlieShare/~fptkyiu.tmp
+08:19:41 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~fptkyiu.tmp|CharlieShare/~jjrvprs.tmp
+08:19:41 : win7-victim|192.168.55.128|RShare|unlink|ok|CharlieShare/~jjrvprs.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare/5A2F4E575733FBBC991B2A2295B888FD695EF143773E99F215006A2E328B6163C62FE886495EB69DA3A9.locked
+08:19:42 : message repeated 34 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare/5A2F4E575733FBBC991B2A2295B888FD695EF143773E99F215006A2E328B6163C62FE886495EB69DA3A9.locked]
+08:19:42 : win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare/picture-Charlie-3.bmp
+08:19:42 : message repeated 104 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare/picture-Charlie-3.bmp]
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/picture-Charlie-3.bmp|CharlieShare/~sbwppad.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~sbwppad.tmp|CharlieShare/~nawiyao.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~nawiyao.tmp|CharlieShare/~cnesniq.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~cnesniq.tmp|CharlieShare/~bgivxkm.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~bgivxkm.tmp|CharlieShare/~qvlcaii.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~qvlcaii.tmp|CharlieShare/~nfazaxu.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~nfazaxu.tmp|CharlieShare/~pvcehla.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~pvcehla.tmp|CharlieShare/~flcqqca.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~flcqqca.tmp|CharlieShare/~kjlhezn.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~kjlhezn.tmp|CharlieShare/~urqrazp.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|unlink|ok|CharlieShare/~urqrazp.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare/5B2B4E515733FBBD986A2B2595CA8F8D1429F331774E98F1160E6A2B32F86510C758E9F14D2BB7EFA3A1B83F.locked
+08:19:42 : win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare/document-Charlie-2.txt
+08:19:42 : message repeated 2 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|CharlieShare/document-Charlie-2.txt]
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/document-Charlie-2.txt|CharlieShare/~zqieffb.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~zqieffb.tmp|CharlieShare/~kpxznxt.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~kpxznxt.tmp|CharlieShare/~nsljxty.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~nsljxty.tmp|CharlieShare/~awdfdcm.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~awdfdcm.tmp|CharlieShare/~gdpuldw.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~gdpuldw.tmp|CharlieShare/~mztewlc.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~mztewlc.tmp|CharlieShare/~jjxbfji.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~jjxbfji.tmp|CharlieShare/~ymqgoqi.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~ymqgoqi.tmp|CharlieShare/~finvuok.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|CharlieShare/~finvuok.tmp|CharlieShare/~dbhwzve.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|unlink|ok|CharlieShare/~dbhwzve.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|pwrite|ok|AliceShare/5B2B4E515733FBBD986A2B2595CA8F8D1429F331774E98F1160E6A2B32F86510C758E9F04D2BB7EFA3A1B83F.locked
+08:19:42 : win7-victim|192.168.55.128|RShare|pwrite|ok|AliceShare/document-Charlie-1.txt
+08:19:42 : message repeated 2 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|AliceShare/document-Charlie-1.txt]
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/document-Charlie-1.txt|AliceShare/~mwligzs.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~mwligzs.tmp|AliceShare/~uylnohv.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~uylnohv.tmp|AliceShare/~ijyzydr.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~ijyzydr.tmp|AliceShare/~gbjkmei.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~gbjkmei.tmp|AliceShare/~rzsagjr.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~rzsagjr.tmp|AliceShare/~pqsmxdi.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~pqsmxdi.tmp|AliceShare/~kkmghku.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~kkmghku.tmp|AliceShare/~hkgjuqj.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~hkgjuqj.tmp|AliceShare/~witbqyt.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~witbqyt.tmp|AliceShare/~gnllimg.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|unlink|ok|AliceShare/~gnllimg.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|pwrite|ok|AliceShare/5B2B4E515733FBBD986A2B2595CA8F8D1429F331774E98F1160E6A2B32F86510C758E9F14D2BB7EFA3A1B83F.locked
+08:19:42 : win7-victim|192.168.55.128|RShare|pwrite|ok|AliceShare/document-Charlie-2.txt
+08:19:42 : message repeated 2 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|AliceShare/document-Charlie-2.txt]
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/document-Charlie-2.txt|AliceShare/~iuwwzze.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~iuwwzze.tmp|AliceShare/~ihmrycj.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~ihmrycj.tmp|AliceShare/~fkrhwik.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~fkrhwik.tmp|AliceShare/~znqilbu.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~znqilbu.tmp|AliceShare/~susygqq.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~susygqq.tmp|AliceShare/~tjkbijr.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~tjkbijr.tmp|AliceShare/~rdbfrfo.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~rdbfrfo.tmp|AliceShare/~tnhegyf.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~tnhegyf.tmp|AliceShare/~zneiwsy.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~zneiwsy.tmp|AliceShare/~nzivuwf.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|unlink|ok|AliceShare/~nzivuwf.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|pwrite|ok|AliceShare/5B2B4E515733FBBD986A2B2595CA8F8D1429F34A774A9882150F6A5B36FF6613C25DED8C.locked
+08:19:42 : win7-victim|192.168.55.128|RShare|pwrite|ok|AliceShare/document-Alice.txt
+08:19:42 : message repeated 2 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|AliceShare/document-Alice.txt]
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/document-Alice.txt|AliceShare/~acljobk.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~acljobk.tmp|AliceShare/~wmmogre.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~wmmogre.tmp|AliceShare/~azwqqni.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~azwqqni.tmp|AliceShare/~njqcsif.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~njqcsif.tmp|AliceShare/~edsennq.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~edsennq.tmp|AliceShare/~rrhmrtq.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~rrhmrtq.tmp|AliceShare/~yoqirig.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~yoqirig.tmp|AliceShare/~lzkhcor.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~lzkhcor.tmp|AliceShare/~phokham.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~phokham.tmp|AliceShare/~jdomkcc.tmp
+08:19:42 : win7-victim|192.168.55.128|RShare|unlink|ok|AliceShare/~jdomkcc.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|pwrite|ok|AliceShare/5A2F4E575733FBBC991B2A2295B888FD6925F147774F98F31509105F36FF656CC358EDF7.locked
+08:19:43 : message repeated 34 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|AliceShare/5A2F4E575733FBBC991B2A2295B888FD6925F147774F98F31509105F36FF656CC358EDF7.locked]
+08:19:43 : win7-victim|192.168.55.128|RShare|pwrite|ok|AliceShare/picture-Alice1.bmp
+08:19:43 : message repeated 104 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|AliceShare/picture-Alice1.bmp]
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/picture-Alice1.bmp|AliceShare/~qzescco.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~qzescco.tmp|AliceShare/~iisksaf.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~iisksaf.tmp|AliceShare/~uoyakuf.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~uoyakuf.tmp|AliceShare/~tganmmg.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~tganmmg.tmp|AliceShare/~lflvvyc.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~lflvvyc.tmp|AliceShare/~dliboko.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~dliboko.tmp|AliceShare/~akftxek.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~akftxek.tmp|AliceShare/~gsicmmv.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~gsicmmv.tmp|AliceShare/~dpvifie.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~dpvifie.tmp|AliceShare/~bnpoqep.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|unlink|ok|AliceShare/~bnpoqep.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|pwrite|ok|AliceShare/5A2F4E575733FBBC991B2A2295B888FD6925F147774F98F31509105A36FF656CC358EDF7.locked
+08:19:43 : message repeated 34 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|AliceShare/5A2F4E575733FBBC991B2A2295B888FD6925F147774F98F31509105A36FF656CC358EDF7.locked]
+08:19:43 : win7-victim|192.168.55.128|RShare|pwrite|ok|AliceShare/picture-Alice2.bmp
+08:19:43 : message repeated 104 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|AliceShare/picture-Alice2.bmp]
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/picture-Alice2.bmp|AliceShare/~czwxrif.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~czwxrif.tmp|AliceShare/~cyvjxht.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~cyvjxht.tmp|AliceShare/~rahdkxc.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~rahdkxc.tmp|AliceShare/~gpqccqu.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~gpqccqu.tmp|AliceShare/~felzkqs.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~felzkqs.tmp|AliceShare/~nyfwyvv.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~nyfwyvv.tmp|AliceShare/~ewyeyyu.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~ewyeyyu.tmp|AliceShare/~ctoydyr.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~ctoydyr.tmp|AliceShare/~sgxnaui.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|AliceShare/~sgxnaui.tmp|AliceShare/~tkbtawm.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|unlink|ok|AliceShare/~tkbtawm.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|pwrite|ok|ShareBob/5B2B4E515733FBBD986A2B2595CA8F8D1429F332774998F21101105D36FF6613C25DED8C.locked
+08:19:43 : win7-victim|192.168.55.128|RShare|pwrite|ok|ShareBob/document-Bob-3.txt
+08:19:43 : message repeated 2 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|ShareBob/document-Bob-3.txt]
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/document-Bob-3.txt|ShareBob/~hskwtzi.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~hskwtzi.tmp|ShareBob/~yvafovm.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~yvafovm.tmp|ShareBob/~jmeaiew.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~jmeaiew.tmp|ShareBob/~enhsuys.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~enhsuys.tmp|ShareBob/~ejtgqmp.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~ejtgqmp.tmp|ShareBob/~nsegmmn.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~nsegmmn.tmp|ShareBob/~wxmiead.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~wxmiead.tmp|ShareBob/~mqxwqkr.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~mqxwqkr.tmp|ShareBob/~vfnnugl.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~vfnnugl.tmp|ShareBob/~ddbnihx.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|unlink|ok|ShareBob/~ddbnihx.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|pwrite|ok|ShareBob/5B2B4E515733FBBD986A2B2595CA8F8D1429F332774998F211796B5831F96613.locked
+08:19:43 : win7-victim|192.168.55.128|RShare|pwrite|ok|ShareBob/document-Bob.txt
+08:19:43 : message repeated 2 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|ShareBob/document-Bob.txt]
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/document-Bob.txt|ShareBob/~maviwzi.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~maviwzi.tmp|ShareBob/~exrfoxn.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~exrfoxn.tmp|ShareBob/~ipmpgxr.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~ipmpgxr.tmp|ShareBob/~kmrinso.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~kmrinso.tmp|ShareBob/~yjxcjkl.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~yjxcjkl.tmp|ShareBob/~jwrcfyn.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~jwrcfyn.tmp|ShareBob/~iopefjt.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~iopefjt.tmp|ShareBob/~pgotwfe.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~pgotwfe.tmp|ShareBob/~padmnfr.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~padmnfr.tmp|ShareBob/~crheqzw.tmp
+08:19:43 : win7-victim|192.168.55.128|RShare|unlink|ok|ShareBob/~crheqzw.tmp
+08:19:44 : win7-victim|192.168.55.128|RShare|pwrite|ok|ShareBob/5A2F4E575733FBBC991B2A2295B888FD6929F14A774A98FF160E6B2E36FC6213C75BECF14951B7EB.locked
+08:19:44 : message repeated 34 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|ShareBob/5A2F4E575733FBBC991B2A2295B888FD6929F14A774A98FF160E6B2E36FC6213C75BECF14951B7EB.locked]
+08:19:44 : win7-victim|192.168.55.128|RShare|pwrite|ok|ShareBob/picture-Malory-4.bmp
+08:19:44 : message repeated 104 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|ShareBob/picture-Malory-4.bmp]
+08:19:44 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/picture-Malory-4.bmp|ShareBob/~opnrcph.tmp
+08:19:44 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~opnrcph.tmp|ShareBob/~rtwrmvt.tmp
+08:19:44 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~rtwrmvt.tmp|ShareBob/~oipmqcb.tmp
+08:19:44 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~oipmqcb.tmp|ShareBob/~scmduqq.tmp
+08:19:44 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~scmduqq.tmp|ShareBob/~korsxxg.tmp
+08:19:44 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~korsxxg.tmp|ShareBob/~xnzmbyn.tmp
+08:19:44 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~xnzmbyn.tmp|ShareBob/~smhoswt.tmp
+08:19:44 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~smhoswt.tmp|ShareBob/~igghgpl.tmp
+08:19:44 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~igghgpl.tmp|ShareBob/~xvwemel.tmp
+08:19:44 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~xvwemel.tmp|ShareBob/~yvjrqae.tmp
+08:19:44 : win7-victim|192.168.55.128|RShare|unlink|ok|ShareBob/~yvjrqae.tmp
+08:19:44 : win7-victim|192.168.55.128|RShare|pwrite|ok|ShareBob/5B2B4E515733FBBD986A2B2595CA8F8D1429F332774998F21101105B36FF6613C25DED8C.locked
+08:19:44 : win7-victim|192.168.55.128|RShare|pwrite|ok|ShareBob/document-Bob-5.txt
+08:19:44 : message repeated 2 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|ShareBob/document-Bob-5.txt]
+08:19:44 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/document-Bob-5.txt|ShareBob/~gzhzsko.tmp
+08:19:44 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~gzhzsko.tmp|ShareBob/~jgwpwdn.tmp
+08:19:44 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~jgwpwdn.tmp|ShareBob/~vzskoke.tmp
+08:19:44 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~vzskoke.tmp|ShareBob/~jieokuw.tmp
+08:19:44 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~jieokuw.tmp|ShareBob/~yzalvbc.tmp
+08:19:44 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~yzalvbc.tmp|ShareBob/~yvkprqo.tmp
+08:19:44 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~yvkprqo.tmp|ShareBob/~ngizzkq.tmp
+08:19:44 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~ngizzkq.tmp|ShareBob/~tbgaobj.tmp
+08:19:44 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~tbgaobj.tmp|ShareBob/~eivwvlr.tmp
+08:19:44 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~eivwvlr.tmp|ShareBob/~xjegotg.tmp
+08:19:44 : win7-victim|192.168.55.128|RShare|unlink|ok|ShareBob/~xjegotg.tmp
+08:19:44 : win7-victim|192.168.55.128|RShare|pwrite|ok|ShareBob/5A2F4E575733FBBC991B2A2295B888FD695DF14477449C8612091729328A6563C22A.locked
+08:19:44 : message repeated 34 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|ShareBob/5A2F4E575733FBBC991B2A2295B888FD695DF14477449C8612091729328A6563C22A.locked]
+08:19:44 : win7-victim|192.168.55.128|RShare|pwrite|ok|ShareBob/picture-Bob-5.bmp
+08:19:44 : message repeated 104 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|ShareBob/picture-Bob-5.bmp]
+08:19:44 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/picture-Bob-5.bmp|ShareBob/~vmnkzyd.tmp
+08:19:44 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~vmnkzyd.tmp|ShareBob/~rgtupvc.tmp
+08:19:44 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~rgtupvc.tmp|ShareBob/~rzvgybk.tmp
+08:19:44 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~rzvgybk.tmp|ShareBob/~hmbtekx.tmp
+08:19:44 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~hmbtekx.tmp|ShareBob/~bauopkd.tmp
+08:19:44 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~bauopkd.tmp|ShareBob/~wwcxzit.tmp
+08:19:44 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~wwcxzit.tmp|ShareBob/~ajdrubh.tmp
+08:19:44 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~ajdrubh.tmp|ShareBob/~mugzazp.tmp
+08:19:44 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~mugzazp.tmp|ShareBob/~rwficka.tmp
+08:19:44 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~rwficka.tmp|ShareBob/~nwhlmgz.tmp
+08:19:44 : win7-victim|192.168.55.128|RShare|unlink|ok|ShareBob/~nwhlmgz.tmp
+08:19:45 : win7-victim|192.168.55.128|RShare|pwrite|ok|ShareBob/5A2F4E575733FBBC991B2A2295B888FD695DF14477449C86120F1729328A6563C22A.locked
+08:19:45 : message repeated 34 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|ShareBob/5A2F4E575733FBBC991B2A2295B888FD695DF14477449C86120F1729328A6563C22A.locked]
+08:19:45 : win7-victim|192.168.55.128|RShare|pwrite|ok|ShareBob/picture-Bob-3.bmp
+08:19:45 : message repeated 104 times: [ win7-victim|192.168.55.128|RShare|pwrite|ok|ShareBob/picture-Bob-3.bmp]
+08:19:45 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/picture-Bob-3.bmp|ShareBob/~udoqhkx.tmp
+08:19:45 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~udoqhkx.tmp|ShareBob/~huuthgo.tmp
+08:19:45 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~huuthgo.tmp|ShareBob/~afwukrc.tmp
+08:19:45 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~afwukrc.tmp|ShareBob/~duxggyb.tmp
+08:19:45 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~duxggyb.tmp|ShareBob/~vpkcdyl.tmp
+08:19:45 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~vpkcdyl.tmp|ShareBob/~beyvosn.tmp
+08:19:45 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~beyvosn.tmp|ShareBob/~bszsmcp.tmp
+08:19:45 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~bszsmcp.tmp|ShareBob/~moofhfe.tmp
+08:19:45 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~moofhfe.tmp|ShareBob/~dcfchsh.tmp
+08:19:45 : win7-victim|192.168.55.128|RShare|rename|ok|ShareBob/~dcfchsh.tmp|ShareBob/~wlniyye.tmp
+08:19:45 : win7-victim|192.168.55.128|RShare|unlink|ok|ShareBob/~wlniyye.tmp
+08:31:33 : win10-charlie|192.168.55.133|RShare|unlink|ok|autorun.inf
